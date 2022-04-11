@@ -1,7 +1,1 @@
-xtext
-aaaa
-bbbb
-cccc
-ddd
-eee
-ggg
+aaaaa
